@@ -16,3 +16,4 @@ cd galaga
 pip install -r requirements.txt
 python galaga.py
 ```
+The galaga, pong, slide-puzzle and tictactoe folders each include a requirements.txt. Blackjack only needs the Python standard library.
